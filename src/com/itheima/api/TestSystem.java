@@ -53,6 +53,7 @@ public class TestSystem {
         //成员方法拆箱
         Integer in = 9;
         int i1 = in.intValue();
+        System.out.println("bbb");
     }
 
 

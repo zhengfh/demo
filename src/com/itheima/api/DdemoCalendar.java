@@ -9,5 +9,6 @@ public class DdemoCalendar {
         System.out.println(c.get(Calendar.YEAR));
         System.out.println("ppp");
         System.out.println("aaa");
+        System.out.println("bbb");
     }
 }
