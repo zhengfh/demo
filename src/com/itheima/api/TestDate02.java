@@ -19,6 +19,5 @@ public class TestDate02 {
         } catch (ParseException e) {
             e.printStackTrace();
         }
-
     }
 }
