@@ -32,5 +32,6 @@ public class TestDate {
         }
         System.out.println("1111");
         System.out.println("1111");
+        System.out.println("0111");
     }
 }
